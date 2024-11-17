@@ -1,0 +1,6 @@
+#!/bin/bash
+cd "$(dirname "$0")"
+echo "Running npm install..."
+npm install
+echo "Running node application..."
+node src/index.js $1 $2
