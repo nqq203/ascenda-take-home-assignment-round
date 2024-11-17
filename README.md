@@ -1,4 +1,4 @@
-#Ascenda Take-home Assignment Round
+# Ascenda Take-home Assignment Round
 ## Introduction: 
 Fullname: Ngo Quoc Quy\
 Contacts: nqquy21@gmail.com
