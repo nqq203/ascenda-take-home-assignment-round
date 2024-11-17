@@ -5,7 +5,7 @@ Contacts: nqquy21@gmail.com
 
 ## How to run this project:
 ### Install the project: 
-- It's required you have to install nodejs first.\
+- It's required you have to install nodejs first.
 - Then run the script bash 
 ```bash
 npm install
