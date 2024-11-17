@@ -15,7 +15,7 @@ npm install
 #### 1. Run project with runner
 - Command line: 
 ```bash
-./runner hotel_id1, hotel_id2 destination_id1,destination_id2
+./runner hotel_id1,hotel_id2 destination_id1,destination_id2
 ```
 - Example: 
 ```bash
@@ -24,7 +24,7 @@ npm install
 #### 2. Run project manually
 - Command line:
 ```bash
-node src/index.js hotel_id1, hotel_id2 destination_id1, destination_id2
+node src/index.js hotel_id1,hotel_id2 destination_id1,destination_id2
 node src/index.js none destination_id1
 node src/index.js hotel_id1 none
 ```
